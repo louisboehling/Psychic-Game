@@ -1,0 +1,12 @@
+body {
+    background: url("../images/tarrot-cards.png");
+    object-fit: fill;
+}
+
+li {
+    font-size: 48px;
+}
+
+h1 {
+    font-size: 72px;
+}
